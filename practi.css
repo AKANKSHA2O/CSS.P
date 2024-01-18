@@ -1,0 +1,85 @@
+/* div{ 
+    background-color: blue;
+}
+
+.heading{
+    color: red;
+}
+
+button{
+    background-color: green;
+
+} */
+/*  
+h1{
+    text-align: center;
+    text-transform : capitalize;
+    font-family: 'Times New Roman';
+    height: 50px;
+    width: 500px;
+    /*  
+    background-color: aqua;
+    border-style: solid;
+    border-color: brown;
+     
+     border:2px solid black;
+     border-radius: 25px;
+
+#outer{
+    font-size:10px;
+    text-transform : capitalize;
+    border:2px dotted;
+    width: 100px;
+    background-color: pink;
+    /* padding-left: 25px; */
+    /* padding-right: 20px; 
+    padding:25px 25px 25px 25px;
+margin-top: 50px;
+  
+  /*  
+}
+#inner{
+    font-size:10px;
+    text-transform : capitalize;
+height: 20px;
+background-color: blueviolet;
+ */
+ *{
+    padding:0px;
+    margin:0px;
+    color:white;
+
+ }
+ #navibar{
+    height: 60px;
+    background-color: black;
+   
+ }
+   #logo{
+    font-size: 25px;
+    color:#f08804;
+   }
+
+ button{
+    background-color: #f08804;
+ }
+ a{
+    margin-right:200px;
+ }
+ 
+.contentbox{
+    height: 100px;
+    width:100px;
+    border :2px solid black;
+    display: inline-block;
+    
+}
+#content{
+    height:500px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
